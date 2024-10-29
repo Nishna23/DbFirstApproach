@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egamn\\source\\repos\\MvcCodeFirstApproach_Nishna\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09E07070-0D97-418F-89C6-734692CF73BD}|MvcCodeFirstApproach_Nishna.csproj|c:\\users\\egamn\\source\\repos\\mvccodefirstapproach_nishna\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09E07070-0D97-418F-89C6-734692CF73BD}|MvcCodeFirstApproach_Nishna.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E07070-0D97-418F-89C6-734692CF73BD}|MvcCodeFirstApproach_Nishna.csproj|c:\\users\\egamn\\source\\repos\\mvccodefirstapproach_nishna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E07070-0D97-418F-89C6-734692CF73BD}|MvcCodeFirstApproach_Nishna.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E07070-0D97-418F-89C6-734692CF73BD}|MvcCodeFirstApproach_Nishna.csproj|c:\\users\\egamn\\source\\repos\\mvccodefirstapproach_nishna\\controllers\\employeemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E07070-0D97-418F-89C6-734692CF73BD}|MvcCodeFirstApproach_Nishna.csproj|solutionrelative:controllers\\employeemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E07070-0D97-418F-89C6-734692CF73BD}|MvcCodeFirstApproach_Nishna.csproj|c:\\users\\egamn\\source\\repos\\mvccodefirstapproach_nishna\\migrations\\employeedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E07070-0D97-418F-89C6-734692CF73BD}|MvcCodeFirstApproach_Nishna.csproj|solutionrelative:migrations\\employeedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E07070-0D97-418F-89C6-734692CF73BD}|MvcCodeFirstApproach_Nishna.csproj|c:\\users\\egamn\\source\\repos\\mvccodefirstapproach_nishna\\migrations\\20241016072626_empinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E07070-0D97-418F-89C6-734692CF73BD}|MvcCodeFirstApproach_Nishna.csproj|solutionrelative:migrations\\20241016072626_empinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E07070-0D97-418F-89C6-734692CF73BD}|MvcCodeFirstApproach_Nishna.csproj|c:\\users\\egamn\\source\\repos\\mvccodefirstapproach_nishna\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E07070-0D97-418F-89C6-734692CF73BD}|MvcCodeFirstApproach_Nishna.csproj|solutionrelative:models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E07070-0D97-418F-89C6-734692CF73BD}|MvcCodeFirstApproach_Nishna.csproj|c:\\users\\egamn\\source\\repos\\mvccodefirstapproach_nishna\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E07070-0D97-418F-89C6-734692CF73BD}|MvcCodeFirstApproach_Nishna.csproj|solutionrelative:models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\egamn\\source\\repos\\MvcCodeFirstApproach_Nishna\\Controllers\\EmployeeModelsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeModelsController.cs",
+              "ToolTip": "C:\\Users\\egamn\\source\\repos\\MvcCodeFirstApproach_Nishna\\Controllers\\EmployeeModelsController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeModelsController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:25:21.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\egamn\\source\\repos\\MvcCodeFirstApproach_Nishna\\Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\egamn\\source\\repos\\MvcCodeFirstApproach_Nishna\\Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:57:19.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241016072626_EmpInit.cs",
+              "DocumentMoniker": "C:\\Users\\egamn\\source\\repos\\MvcCodeFirstApproach_Nishna\\Migrations\\20241016072626_EmpInit.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241016072626_EmpInit.cs",
+              "ToolTip": "C:\\Users\\egamn\\source\\repos\\MvcCodeFirstApproach_Nishna\\Migrations\\20241016072626_EmpInit.cs",
+              "RelativeToolTip": "Migrations\\20241016072626_EmpInit.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:26:26.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egamn\\source\\repos\\MvcCodeFirstApproach_Nishna\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\egamn\\source\\repos\\MvcCodeFirstApproach_Nishna\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:14:14.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\egamn\\source\\repos\\MvcCodeFirstApproach_Nishna\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\egamn\\source\\repos\\MvcCodeFirstApproach_Nishna\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T06:30:18.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\egamn\\source\\repos\\MvcCodeFirstApproach_Nishna\\Models\\EmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeDBContext.cs",
+              "ToolTip": "C:\\Users\\egamn\\source\\repos\\MvcCodeFirstApproach_Nishna\\Models\\EmployeeDBContext.cs",
+              "RelativeToolTip": "Models\\EmployeeDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:21:00.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\egamn\\source\\repos\\MvcCodeFirstApproach_Nishna\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\egamn\\source\\repos\\MvcCodeFirstApproach_Nishna\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:04:41.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
